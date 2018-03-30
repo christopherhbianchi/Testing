@@ -11,6 +11,7 @@ public class Employee {
 //=======
 	private String workingInA;
 	
+	
 	//Getters and Setters
 	public int getId() {
 		return id;
@@ -38,6 +39,12 @@ public class Employee {
 		this.featureA = featureA;
 	}
 	
+	public String getWorkingInA() {
+		return workingInA;
+	}
+	public void setWorkingInA(String workingInA) {
+		this.workingInA = workingInA;
+	}
 	//toString
 	@Override
 	public String toString() {
