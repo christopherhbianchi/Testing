@@ -5,6 +5,7 @@ public class Employee {
 	private int id;
 	private String firstName;
 	private String lastName;
+	private String featureA;
 	
 	//Getters and Setters
 	public int getId() {
@@ -24,6 +25,13 @@ public class Employee {
 	}
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
+	}
+	
+	public String getFeatureA() {
+		return featureA;
+	}
+	public void setFeatureA(String featureA) {
+		this.featureA = featureA;
 	}
 	
 	//toString
