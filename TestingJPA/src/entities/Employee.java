@@ -10,7 +10,7 @@ public class Employee {
 //	private String workingInMaster;
 //=======
 	private String workingInA;
-	
+	private int weight;
 	
 	//Getters and Setters
 	public int getId() {
