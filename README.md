@@ -1,2 +1,7 @@
-#Setting up a testing project.
-##Branching, resetting, merging, resolving merge conflicts, etc.
+# **Setting up a testing project.**
+** Branching
+** Resetting
+** Merging branches
+** resolving merge conflicts
+** Stashing
+** Applying Tags
