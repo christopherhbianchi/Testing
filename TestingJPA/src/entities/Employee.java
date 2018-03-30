@@ -6,7 +6,10 @@ public class Employee {
 	private String firstName;
 	private String lastName;
 	private String featureA;
-	private String workingInMaster;
+//<<<<<<< HEAD
+//	private String workingInMaster;
+//=======
+	private String workingInA;
 	
 	//Getters and Setters
 	public int getId() {
